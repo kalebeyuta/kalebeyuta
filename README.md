@@ -1,16 +1,26 @@
-### Hi there 👋
+## I'm Kalebe Yuta! 
 
-<!--
-**kalebeyuta/kalebeyuta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+As a fullstack engineer with a background in Linguistics, I have a unique perspective on the word language.
+Recently, i entered the École42 to further my knowledge and expertise in computer science. 
+On my Github profile, you'll find a range of projects that showcase my skills and interests, from backend applications to front-end interfaces. I am always looking for new collaborators and opportunities to contribute to open-source projects, so feel free to reach out if you're interested in working together.
 
-Here are some ideas to get you started:
+<!-- Conecct section -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+ <!-- Conecct section: END -->
+ 
+  <!-- GitHub section -->
+
+
+ <div>
+    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=kalebeyuta&show_icons=true" />
+</div>
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kalebeyuta&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
+ <a href="https://linkedin.com/in/kalebe-yuta"><img src="https://img.shields.io/badge/-Kalebe%20Yuta%20-blue?style=plastic&amp;labelColor=blue&amp;logo=LinkedIn&amp;link=https://linkedin.com/in/kalebe-yuta" alt="LinkedIn Badge"></a> 
+</p>
+
+<!-- THE END -->
+
+
